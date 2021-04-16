@@ -5,9 +5,11 @@ func _ready() -> void:
 	Augusto()
 
 func professorRicardo():
+	batata()
 	print("Ricardo")
 
 func batata():
+	Augusto()
 	print("Meu nome é Davi, eu acho...")
 
 func Augusto():
