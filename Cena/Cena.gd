@@ -6,7 +6,11 @@ var speed = 34
 
 func _ready() -> void:
 	print("Hehe")
+	henrique()
 	Augusto()
+
+func henrique():
+	print("Teste")
 
 func professorRicardo():
 	Davi()
