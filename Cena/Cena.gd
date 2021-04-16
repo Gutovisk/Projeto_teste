@@ -22,3 +22,7 @@ func Davi():
 
 func Augusto():
 	print("Gutovisk")
+	MonaLisa()
+
+func MonaLisa():
+	print("Sou a Mona Lisa , sou top 10")
