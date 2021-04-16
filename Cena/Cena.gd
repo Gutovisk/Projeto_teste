@@ -3,6 +3,7 @@ extends Node2D
 var vida = 100
 var speed = 34
 
+#OBOJSBDSABCJCBFU9BSA ZBDUO
 
 func _ready() -> void:
 	print("Hehe")
@@ -22,3 +23,7 @@ func Davi():
 
 func Augusto():
 	print("Gutovisk")
+	MonaLisa()
+
+func MonaLisa():
+	print("Sou a Mona Lisa , sou top 10")
