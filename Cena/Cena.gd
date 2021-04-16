@@ -2,7 +2,11 @@ extends Node2D
 
 func _ready() -> void:
 	print("Hehe")
+	henrique()
 	Augusto()
+
+func henrique():
+	print("Teste")
 
 func professorRicardo():
 	batata()
