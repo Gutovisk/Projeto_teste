@@ -1,3 +1,28 @@
 [gd_scene format=2]
 
 [node name="Nao_sei" type="Node2D"]
+
+[node name="Panel" type="Panel" parent="."]
+margin_right = 448.0
+margin_bottom = 281.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Panel2" type="Panel" parent="."]
+margin_left = 520.0
+margin_top = -6.0
+margin_right = 968.0
+margin_bottom = 275.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Panel3" type="Panel" parent="."]
+margin_left = 263.0
+margin_top = 381.0
+margin_right = 711.0
+margin_bottom = 426.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
