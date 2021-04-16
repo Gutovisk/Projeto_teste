@@ -19,7 +19,7 @@ __meta__ = {
 }
 
 [node name="Panel3" type="Panel" parent="."]
-margin_left = 263.0
+margin_left = 645.0
 margin_top = 381.0
 margin_right = 711.0
 margin_bottom = 426.0
