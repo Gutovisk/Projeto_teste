@@ -5,3 +5,6 @@ func _ready() -> void:
 
 func professorRicardo():
 	print("Ricardo")
+
+func Augusto():
+	print("Gutovisk")
